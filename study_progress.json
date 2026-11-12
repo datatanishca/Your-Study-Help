@@ -1,0 +1,126 @@
+{
+  "quiz_attempts": [
+    {
+      "topic": "Friction",
+      "question": "What is the coefficient of friction between a body and a surface when the angle of friction is 30 degrees?",
+      "correct": false,
+      "reviewed_at": "2026-11-12T12:55+05:30",
+      "sources": [
+        {
+          "source": "Friction (1).pdf",
+          "page": 7
+        }
+      ]
+    },
+    {
+      "topic": "Friction",
+      "question": "When two blocks are released from rest with a compressed spring between them, what happens to the blocks due to friction?",
+      "correct": false,
+      "reviewed_at": "2026-11-12T12:55+05:30",
+      "sources": [
+        {
+          "source": "Friction (1).pdf",
+          "page": 23
+        }
+      ]
+    },
+    {
+      "topic": "Friction",
+      "question": "Why do kabaddi players rub their hands with soil?",
+      "correct": false,
+      "reviewed_at": "2026-11-12T12:55+05:30",
+      "sources": [
+        {
+          "source": "Class10.pdf",
+          "page": 6
+        }
+      ]
+    },
+    {
+      "topic": "Friction",
+      "question": "What happens to the friction force when a body starts moving on a surface?",
+      "correct": true,
+      "reviewed_at": "2026-11-12T12:55+05:30",
+      "sources": [
+        {
+          "source": "Chapter-10.pdf",
+          "page": 16
+        }
+      ]
+    },
+    {
+      "topic": "Friction",
+      "question": "How does the coefficient of friction affect the stopping distance of a block on a surface?",
+      "correct": false,
+      "reviewed_at": "2026-11-12T12:55+05:30",
+      "sources": [
+        {
+          "source": "Friction (1).pdf",
+          "page": 23
+        }
+      ]
+    },
+    {
+      "topic": "Friction",
+      "question": "What is the coefficient of friction between the road and synthetic rubber tyres?",
+      "correct": false,
+      "reviewed_at": "2026-11-12T13:04+05:30",
+      "sources": [
+        {
+          "source": "Friction (1).pdf",
+          "page": 1
+        }
+      ]
+    },
+    {
+      "topic": "Friction",
+      "question": "What is the relationship between the coefficient of friction and the angle of friction?",
+      "correct": true,
+      "reviewed_at": "2026-11-12T13:04+05:30",
+      "sources": [
+        {
+          "source": "Friction (1).pdf",
+          "page": 7
+        }
+      ]
+    },
+    {
+      "topic": "Friction",
+      "question": "When two blocks are released with a compressed spring between them, what happens to the blocks?",
+      "correct": false,
+      "reviewed_at": "2026-11-12T13:05+05:30",
+      "sources": [
+        {
+          "source": "Friction (1).pdf",
+          "page": 23
+        }
+      ]
+    },
+    {
+      "topic": "Friction",
+      "question": "What is the minimum force required to start moving a block on a horizontal surface?",
+      "correct": false,
+      "reviewed_at": "2026-11-12T13:05+05:30",
+      "sources": [
+        {
+          "source": "Chapter-10.pdf",
+          "page": 16
+        }
+      ]
+    },
+    {
+      "topic": "Friction",
+      "question": "Why do kabaddi players rub their hands with soil?",
+      "correct": false,
+      "reviewed_at": "2026-11-12T13:05+05:30",
+      "sources": [
+        {
+          "source": "Class10.pdf",
+          "page": 6
+        }
+      ]
+    }
+  ],
+  "completed_days": [],
+  "learning_plan": []
+}

@@ -1,0 +1,26 @@
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+
+# Python environments and generated files
+.venv/
+.venv314/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Private study data and uploaded documents
+study_progress.json
+*.pdf
+
+# Editor and test caches
+.idea/
+.vscode/
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
